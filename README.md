@@ -6,7 +6,7 @@ A partial Ocarina of Time 3DS Decompilation (Proof of Concept)
 
 `--no_autoinline` may be desirable while testing snippets of code.
 
-## Objdump parameters
+## Objdump parameters (via gcc)
 `objdump.exe -D --demangle -m armv6k func.o > func.s`
 
 ## Notes
